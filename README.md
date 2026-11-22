@@ -14,7 +14,7 @@ Course project for *Statistics & Forecasting*, MSc Business Analytics, Universit
 - **Source:** World Bank Enterprise Survey, Kuwait 2025 (stratified random sample; 150 establishments, 146 after removing missing values).
 - **Outcome:** annual sales in KWD (item D2), log-transformed.
 - **Predictors:** 13 candidates, including employees (L1), firm age (B5), manager experience (B7), quality certification (B8), external audit (K21), R&D spending (H8) and sector (A4A). Full coding is in Table A1 of the report.
-- **The raw data is not included in this repository.** Download the Kuwait 2025 microdata from the [World Bank Enterprise Surveys](https://www.enterprisesurveys.org/) site (free registration), save it as `data/Project_Data.csv`, then run the script.
+- - **The raw data is not included in this repository.** Download the Kuwait 2025 microdata (reference ID KWT_2025_WBES_v01_M) from the World Bank Microdata Library: https://microdata.worldbank.org/catalog/8151 (use the "Get Microdata" tab and check the terms of use there). It is also listed on the Enterprise Surveys site: https://www.enterprisesurveys.org/en/data. Save the file as `data/Project_Data.csv`, then run the script.
 
 ## Methods
 
