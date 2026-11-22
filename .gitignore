@@ -1,0 +1,12 @@
+# Raw survey microdata (World Bank terms of use) - download separately
+data/*
+!data/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
